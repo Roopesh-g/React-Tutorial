@@ -1,8 +1,8 @@
 import React from "react"
 
-import Header from "./components/Header"
-import MainComponent from "./components/MainContent"
-import Footer from "./components/Footer"
+import Header from "./basics_1/parentChild/components/Header"
+import MainComponent from "./basics_1/parentChild/components/MainContent"
+import Footer from "./basics_1/parentChild/components/Footer"
 
 const content = (
     <div>
